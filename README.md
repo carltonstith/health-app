@@ -1,15 +1,8 @@
 # Health App
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/carltonstith?style=social)
 
 Health App is a healthy lifestyle app that allows anyone to track their fitness and healthy lifestyle goals.
-
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
 ## Prerequisites
 
@@ -56,21 +49,6 @@ To contribute to <project_name>, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
-
-Thanks to the following people who have contributed to this project:
-
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
-
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
-
-## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
-
-This project uses the following license: [<license_name>](<link>).
+If you want to contact me you can reach me at carlton215@gmail.com.
